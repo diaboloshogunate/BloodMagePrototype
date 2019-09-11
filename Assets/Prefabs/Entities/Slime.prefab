@@ -122,7 +122,7 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.06, y: -0.5}
+  m_Offset: {x: -0.05, y: 0.2}
   serializedVersion: 2
   m_Radius: 0.2
 --- !u!58 &2354379089901176020
@@ -138,7 +138,7 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.05, y: -0.5}
+  m_Offset: {x: -0.05, y: 0.2}
   serializedVersion: 2
   m_Radius: 6
 --- !u!114 &2354379089901176023
@@ -170,6 +170,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _blood: 1
   _recovery: 1
+  special: {fileID: 0}
 --- !u!114 &2354379089901176013
 MonoBehaviour:
   m_ObjectHideFlags: 0

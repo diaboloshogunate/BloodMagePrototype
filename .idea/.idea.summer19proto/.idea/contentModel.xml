@@ -353,10 +353,8 @@
             <e p="Spawner.cs" t="Include" />
           </e>
           <e p="Level" t="Include">
-            <e p="LevelGenerator.cs" t="Include" />
+            <e p="Generator.cs" t="Include" />
             <e p="Room.cs" t="Include" />
-            <e p="RoomLayer.cs" t="Include" />
-            <e p="RoomTiles.cs" t="Include" />
           </e>
           <e p="Obsticles" t="Include">
             <e p="Trap.cs" t="Include" />

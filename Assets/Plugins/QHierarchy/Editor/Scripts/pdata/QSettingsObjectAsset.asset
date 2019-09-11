@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -71,7 +72,7 @@ MonoBehaviour:
   - QTools.QHierarchy_VerticesAndTrianglesLabelSize
   - QTools.QHierarchy_ComponentsIconSize
   - QTools.QHierarchy_AdditionalIdentation
-  settingIntValues: 000000000100000000000000000000003d0000000000000000000000000000000000000000000000000000000000000000000000
+  settingIntValues: 000000000100000000000000000000003d0000000000000000000000000000000000000000000000000000000000000010000000
   settingBoolNames:
   - QTools.QHierarchy_TreeMapShow
   - QTools.QHierarchy_TreeMapEnhanced
@@ -128,4 +129,4 @@ MonoBehaviour:
   - QTools.QHierarchy_AdditionalShowHiddenQHierarchyObjectList
   - QTools.QHierarchy_AdditionalHideIconsIfNotFit
   - QTools.QHierarchy_AdditionalShowModifierWarning
-  settingBoolValues: 01010101010101010001000000000000000101010101010101010000000000010001000100010000010000010000010101000000010101
+  settingBoolValues: 01010101010101010101010000000000000101010101010101010000000001010001000100010000010100010000010101010000010101
