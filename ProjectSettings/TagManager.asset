@@ -45,6 +45,9 @@ TagManager:
   - name: Wall
     uniqueID: 2511830629
     locked: 0
+  - name: Pit
+    uniqueID: 1675328689
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

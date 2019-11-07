@@ -16,6 +16,12 @@ public class Room : MonoBehaviour
     public Transform spawnPoint;
     public Room previousRoom;
     public int distanceFromSpawn;
+    public int weight = 1;
+
+    public Room roomUp = null;
+    public Room roomRight = null;
+    public Room roomDown = null;
+    public Room roomLeft = null;
     
     public int numberOfPaths {
         get

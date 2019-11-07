@@ -354,6 +354,8 @@
           </e>
           <e p="Level" t="Include">
             <e p="Generator.cs" t="Include" />
+            <e p="RandomTile.cs" t="Include" />
+            <e p="RandomTilePlacement.cs" t="Include" />
             <e p="Room.cs" t="Include" />
           </e>
           <e p="Obsticles" t="Include">
