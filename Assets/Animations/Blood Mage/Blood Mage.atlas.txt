@@ -1,0 +1,104 @@
+
+Blood Mage.png
+size: 1847,1411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 322
+  size: 638, 1087
+  orig: 638, 1087
+  offset: 0, 0
+  index: -1
+Cloke_Back
+  rotate: false
+  xy: 642, 494
+  size: 895, 915
+  orig: 895, 915
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 642, 382
+  size: 195, 110
+  orig: 195, 110
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 642, 382
+  size: 195, 110
+  orig: 195, 110
+  offset: 0, 0
+  index: -1
+Hand Left
+  rotate: false
+  xy: 1539, 485
+  size: 271, 230
+  orig: 455, 307
+  offset: 184, 77
+  index: -1
+Hand Right
+  rotate: false
+  xy: 1215, 270
+  size: 268, 222
+  orig: 455, 307
+  offset: 0, 85
+  index: -1
+arm Left
+  rotate: false
+  xy: 301, 8
+  size: 310, 312
+  orig: 310, 312
+  offset: 0, 0
+  index: -1
+arm Left 2
+  rotate: true
+  xy: 1437, 3
+  size: 233, 217
+  orig: 245, 217
+  offset: 12, 0
+  index: -1
+arm right
+  rotate: false
+  xy: 1485, 238
+  size: 360, 245
+  orig: 370, 245
+  offset: 10, 0
+  index: -1
+arm right 2
+  rotate: false
+  xy: 1215, 2
+  size: 220, 234
+  orig: 235, 234
+  offset: 0, 0
+  index: -1
+cloke
+  rotate: true
+  xy: 1539, 717
+  size: 692, 299
+  orig: 692, 299
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 793, 6
+  size: 420, 374
+  orig: 907, 519
+  offset: 258, 145
+  index: -1
+horn left
+  rotate: false
+  xy: 613, 15
+  size: 178, 305
+  orig: 178, 305
+  offset: 0, 0
+  index: -1
+horn right
+  rotate: true
+  xy: 2, 3
+  size: 317, 297
+  orig: 317, 297
+  offset: 0, 0
+  index: -1
